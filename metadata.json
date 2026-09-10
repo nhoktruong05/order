@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Bàn & Đơn hàng Nhà hàng",
+  "description": "Giao diện Staff và Quản lý đơn hàng: theo dõi trạng thái bàn quét QR, các đợt gọi món, thanh toán tại bàn thu ngân chuyển sang màu xanh, đặt bàn online đa ngày (hôm nay, ngày mai, ngày kia) tự động khóa trước 3 tiếng và tự hủy sau 30 phút nếu khách không đến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
